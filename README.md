@@ -1,8 +1,10 @@
-# Bu Windows Güvenlik İzleme Sistemi, bilgisayarınızdaki şüpheli işlemleri ve ağ etkinliklerini tespit etmek için kapsamlı bir araçtır. Programın ana özellikleri şunlardır:
+###  Bu Windows Güvenlik İzleme Sistemi, 
+### Bilgisayarınızdaki şüpheli işlemleri ve ağ etkinliklerini tespit etmek için 
+### kapsamlı bir araçtır. Programın ana özellikleri şunlardır:
 
 ## Özellikleri:
 
-### Şüpheli Süreç Tespiti
+# Şüpheli Süreç Tespiti
 
 Bilinen kötü amaçlı yazılım isimlerini izleme
 Şüpheli komut satırı parametrelerini kontrol etme
@@ -10,21 +12,21 @@ Anormal CPU ve bellek kullanımını tespit etme
 SYSTEM kullanıcısı altında çalışan şüpheli süreçleri tespit etme
 
 
-Ağ Aktivite İzleme
+# Ağ Aktivite İzleme
 
 Şüpheli portlara yapılan bağlantıları tespit etme
 Şüpheli süreçler tarafından yapılan ağ bağlantılarını izleme
 Anormal sayıda ağ bağlantısı olan süreçleri tespit etme
 
 
-Otomatik Başlayan Programları İzleme
+# Otomatik Başlayan Programları İzleme
 
 Windows başlangıç klasörlerini tarama
 Registry'deki otomatik başlatma girişlerini kontrol etme
 Yeni eklenen otomatik başlatma girişlerini tespit etme
 
 
-Akıllı Analiz ve Raporlama
+# Akıllı Analiz ve Raporlama
 
 Normal sistem davranışını öğrenerek (baseline) anomalileri tespit etme
 Düzenli güvenlik raporları oluşturma
@@ -33,7 +35,7 @@ Grafikli raporlar oluşturma
 
 
 
-Kurulum ve Kullanım:
+# Kurulum ve Kullanım:
 
 Gereken Kütüphaneler:
 pip install psutil tabulate pandas matplotlib
@@ -52,7 +54,7 @@ Otomatik Çalışan Programları Kontrol Et: Sistem başlangıcında çalışan 
 
 
 
-Nasıl Çalışır:
+# Nasıl Çalışır:
 
 Program başlatıldığında, önce sistemin normal davranış profilini oluşturur (baseline)
 Ardından paralel iş parçacıkları ile:
