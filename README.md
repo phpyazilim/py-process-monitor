@@ -45,12 +45,12 @@ python security_monitor.py
 
 **Program Menüsü:**
 
-İzlemeyi Başlat: Sistem izlemeyi başlatır
-İzlemeyi Durdur: İzlemeyi sonlandırır
-Uyarıları Göster: Tespit edilen güvenlik uyarılarını listeler
-Güvenlik Raporu Oluştur: HTML formatında detaylı bir rapor oluşturur
-Otomatik Çalışan Programları Kontrol Et: Sistem başlangıcında çalışan programları listeler
-Çıkış: Programı sonlandırır
+- İzlemeyi Başlat: Sistem izlemeyi başlatır
+- İzlemeyi Durdur: İzlemeyi sonlandırır
+- Uyarıları Göster: Tespit edilen güvenlik uyarılarını listeler
+- Güvenlik Raporu Oluştur: HTML formatında detaylı bir rapor oluşturur
+- Otomatik Çalışan Programları Kontrol Et: Sistem başlangıcında çalışan programları listeler
+- Çıkış: Programı sonlandırır
 
 
 
